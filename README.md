@@ -1,5 +1,5 @@
 **Number Game (Java)**  <br>
-&nbsp; Welcome to the Number Game in Java! This program challenges you to guess a randomly generated number within a specified range. Test your guessing skills and aim for a high score!
+&nbsp; &nbsp;Welcome to the Number Game in Java! This program challenges you to guess a randomly generated number within a specified range. Test your guessing skills and aim for a high score!
 
 **Features**
 1. Generate a random number within a specified range (default: 1 to 100).
