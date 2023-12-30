@@ -1,4 +1,4 @@
-**Number Game (Java)**
+**Number Game (Java)**  <br>
     Welcome to the Number Game in Java! This program challenges you to guess a randomly generated number within a specified range. Test your guessing skills and aim for a high score!
 
 **Features**
